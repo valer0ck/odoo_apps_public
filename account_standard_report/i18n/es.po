@@ -391,7 +391,7 @@ msgstr "Creado el"
 #: model:ir.ui.view,arch_db:account_standard_report.report_account_standard_report
 #, python-format
 msgid "Credit"
-msgstr "Abono"
+msgstr "Credito"
 
 #. module: account_standard_report
 #: model:ir.model,name:account_standard_report.model_res_currency
@@ -449,7 +449,7 @@ msgstr "Fechas"
 #: model:ir.ui.view,arch_db:account_standard_report.report_account_standard_report
 #, python-format
 msgid "Debit"
-msgstr "Cargo"
+msgstr "Debito"
 
 #. module: account_standard_report
 #: model:ir.model.fields,field_description:account_standard_report.field_account_report_standard_ledger_display_name
